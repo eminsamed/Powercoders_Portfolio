@@ -105,7 +105,7 @@ ul {
 }
 
 .section-title h2 {
-  font-size: 40px;
+  font-size: 24px;
   color: var(--text-black-900);
   font-weight: 700;
   position: relative;
@@ -329,7 +329,7 @@ h3.hello span {
 }
 
 h3.my-profession {
-  font-size: 30px;
+  font-size: 28px;
   margin: 15px 0;
 }
 
@@ -340,7 +340,7 @@ h3.my-profession {
 .home-info p {
   margin-bottom: 70px;
   font-size: 20px;
-  color: var(--text-black-700);
+  /* color: var(--text-black-700); */
 }
 
 .home .home-img {
@@ -547,7 +547,7 @@ h3.my-profession {
 
 .about .about-content .timeline .timeline-date {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 12px;
   color: var(--text-black-700);
 }
